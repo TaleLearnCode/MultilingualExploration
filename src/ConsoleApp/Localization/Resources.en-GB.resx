@@ -165,7 +165,16 @@
   <data name="Selected" xml:space="preserve">
     <value>Selected</value>
   </data>
-  <data name="HelloPhillipines" xml:space="preserve">
+  <data name="HelloPhilippines" xml:space="preserve">
     <value>Hello, Phillippines!</value>
+  </data>
+  <data name="HelloFrance" xml:space="preserve">
+    <value>Hello, France!</value>
+  </data>
+  <data name="HelloEngland" xml:space="preserve">
+    <value>Hello, England!</value>
+  </data>
+  <data name="HelloPuertoRico" xml:space="preserve">
+    <value>Hello, Puerto Rico</value>
   </data>
 </root>
